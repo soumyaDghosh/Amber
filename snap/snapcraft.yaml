@@ -7,7 +7,9 @@ summary: Amber the programming language compiled to bash
 description: |
   Programming language that compiles to Bash. It's a high level programming language that makes it easy to create shell scripts.
   It's particularly well suited for cloud services.
-contact: https://discord.com/invite/cjHjxbsDvZ
+contact: 
+  - https://discord.com/invite/cjHjxbsDvZ
+  - foo.bar_at_gmail.com
 source-code: https://github.com/Ph0enixKM/Amber
 issues: https://github.com/Ph0enixKM/Amber/issues
 website: https://amber-lang.com/
